@@ -346,7 +346,7 @@ async def on_command_error(ctx, error):
 
 #----------------------------------------------------------Music Bot---------------------------------------------------
 
-client.run("Nzk5NzAxNzAwMDU5MDcwNDc0.YAHaPw.osTRzrDOvUDjQtvG4GZmKaSncrk")
+client.run("bot token here")
 
 
 
