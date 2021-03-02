@@ -1,0 +1,53 @@
+​No Category:
+Y  add                  add the given encouraging message to the encouragement...
+Y  ban                  Bans the mentioned member from the server
+Y  bye                  says bye
+Y  clear                clear the specific amount of messages from the channel
+Y  credits              returns the credits
+Y  delete               delete the choosen encouragement from the list of enco...
+Y  die                  returns a random last words
+Y  dm                   sends a DM to You
+Y  hello                return a random welcome message
+Y  help                 Shows this message
+Y  inspire              send a inspiring quote
+Y  join                 Bot will join the voice channel
+Y  kick                 Kick the mentioned member from the server
+Y  leave                Leave the voice channel
+Y  list                 return the List of encouragements
+Y  next                 Plays the Next song from the queue
+Y  on_command_error     
+Y  pause                Pauses the current music
+Y  ping                 return the latency
+Y  play                 Play the music using the URL of the youtube video or f...
+Y  queue                Add song to the Queue
+  reaction_add_role    
+  reaction_create_post create a reaction post
+  reaction_remove_role 
+  reaction_send_post   
+  reaction_set_title  
+Y  responding           help us to control the functionality of responding to ...
+Y  resume               resumes the current music
+Y  stop                 Stop the song and clear the queue
+Y  unban                unban the mentioned member from the server
+Y  version              return the version information of the Bot
+N   view                Returns the Queue of songs
+Y  volume               Change the volume of Bot(put volume from 0-100)              
+
+
+s
+
+
+https://www.youtube.com/watch?v=T94PHkuydcw
+https://www.youtube.com/watch?v=6MgsHSAcI9k
+https://www.youtube.com/watch?v=p9DQINKZxWE
+https://www.youtube.com/watch?v=fdubeMFwuGs
+https://www.youtube.com/watch?v=jHNNMj5bNQw
+
+
+
+
+
+
+  702105495841800214
+
+  763459849815719968
